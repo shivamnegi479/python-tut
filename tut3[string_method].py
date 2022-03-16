@@ -35,5 +35,7 @@ str="hello my name is shivam"
 
 # print(str[-4:-2])
 
-a="9".join(str)
-print(a)
+# a="9".join(str)
+# print(a)
+# x=str.split(',')
+print(str[9])
