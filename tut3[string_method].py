@@ -1,4 +1,7 @@
-str="hello my name is shivam"
+from ast import Str
+
+
+str="shivam"
 # print(str[0:6])
 # o/p hello 
 
@@ -38,4 +41,16 @@ str="hello my name is shivam"
 # a="9".join(str)
 # print(a)
 # x=str.split(',')
-print(str[9])
+# print(str[9])
+
+# for i in range(0,len(str),2):
+#     print(str[i])
+# for i in range(0,len(str),3):
+#     print(str[i])
+
+
+print(str.endswith('shivam'))
+print(str.count('j'))
+print(str.find('m'))
+print(str.replace('m','j'))
+print(str)
