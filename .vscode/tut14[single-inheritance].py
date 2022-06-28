@@ -2,12 +2,17 @@ from operator import le
 
 
 class Employee():
+    State="Uttrakhand"
     def __init__(self,name,age,salary):
         self.name=name
         self.age=age
         self.salary=salary
     def Details(self,string):
         return f"hi {self.name} You are From {string} your age is {self.age}"
+    
+    @classmethod
+    def changeState(self,state):
+        self.State=state
 
 shivam=Employee("Shivam",26,10000)
 atul=Employee("atul",27,15000)
@@ -27,5 +32,6 @@ print(sanju.Details("thenga"))
 sanju.language.append("React")
 sanju.language.sort()
 print(sanju.language)
+print(sanju.State)
 
 

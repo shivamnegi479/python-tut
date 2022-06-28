@@ -1,3 +1,3 @@
-def __init__(self,name,age):
-    #     self.name=name
-    #     self.age=age
+ @classmethod
+    def ChangeDstt(self,Newdstt):
+        self.dstt=Newdstt

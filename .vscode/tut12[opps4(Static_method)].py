@@ -9,7 +9,7 @@ class Student():
     
     @staticmethod
     def myfun(string):
-        print(f"Hello {string}")
+        return print(f"Hello {string}")
     
 shiv=Student("shivam",25)
 print(shiv.myfun("atul"))
