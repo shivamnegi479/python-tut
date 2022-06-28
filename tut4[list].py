@@ -41,5 +41,7 @@
 # print(li)
 
 a=[1,2,3,54,6,3,21,3,4,5,2,45,6,3,4,56,22,5,6,6,4,45,676,23,546,34,5,5]
-print(max(a,key=a.count))
-print(a.count(3))
+# print(max(a,key=a.count))
+# print(a.count(3))
+a.sort()
+print(a)
