@@ -1,0 +1,83 @@
+29-06-2022 14:34:31 WARNING-Log Warnning Message
+29-06-2022 14:34:31 CRITICAL-Logging critical message
+29-06-2022 14:34:31 ERROR-Logging Error Message
+29-06-2022 14:34:31 WARNING-Log Warnning Message
+29-06-2022 14:34:31 ERROR-Logging Error Message
+29-06-2022 14:34:31 CRITICAL-Logging critical message
+29-06-2022 14:34:31 WARNING-Log Warnning Message
+29-06-2022 14:34:31 ERROR-Logging Error Message
+29-06-2022 14:34:31 ERROR-Logging Error Message
+29-06-2022 14:34:31 WARNING-Log Warnning Message
+29-06-2022 14:34:31 CRITICAL-Logging critical message
+29-06-2022 14:34:31 ERROR-Logging Error Message
+29-06-2022 14:34:31 WARNING-Log Warnning Message
+29-06-2022 14:34:31 ERROR-Logging Error Message
+29-06-2022 14:34:31 CRITICAL-Logging critical message
+29-06-2022 14:34:31 WARNING-Log Warnning Message
+29-06-2022 14:34:31 ERROR-Logging Error Message
+29-06-2022 14:34:31 ERROR-Logging Error Message
+29-06-2022 14:34:31 WARNING-Log Warnning Message
+29-06-2022 14:34:31 CRITICAL-Logging critical message
+29-06-2022 14:34:31 ERROR-Logging Error Message
+29-06-2022 14:34:31 WARNING-Log Warnning Message
+29-06-2022 14:34:31 ERROR-Logging Error Message
+29-06-2022 14:35:56 WARNING-Log Warnning Message
+
+29-06-2022 14:35:56 ERROR-Logging Error Message
+
+29-06-2022 14:35:56 WARNING-Log Warnning Message
+
+29-06-2022 14:35:56 ERROR-Logging Error Message
+
+29-06-2022 14:35:56 WARNING-Log Warnning Message
+
+29-06-2022 14:35:56 ERROR-Logging Error Message
+
+29-06-2022 14:35:56 WARNING-Log Warnning Message
+
+29-06-2022 14:35:56 ERROR-Logging Error Message
+
+29-06-2022 14:35:56 WARNING-Log Warnning Message
+
+29-06-2022 14:35:56 ERROR-Logging Error Message
+
+29-06-2022 14:35:56 WARNING-Log Warnning Message
+
+29-06-2022 14:35:56 ERROR-Logging Error Message
+
+29-06-2022 14:35:56 WARNING-Log Warnning Message
+
+29-06-2022 14:35:56 ERROR-Logging Error Message
+
+29-06-2022 14:35:56 WARNING-Log Warnning Message
+
+WARNING 2022-06-30 11:56:05,459 <module> 6 - Log Warnning Message
+
+ERROR 2022-06-30 11:56:05,460 <module> 8 - Logging Error Message
+
+WARNING 2022-06-30 11:56:05,460 <module> 6 - Log Warnning Message
+
+ERROR 2022-06-30 11:56:05,460 <module> 8 - Logging Error Message
+
+WARNING 2022-06-30 11:56:05,460 <module> 6 - Log Warnning Message
+
+ERROR 2022-06-30 11:56:05,460 <module> 8 - Logging Error Message
+
+WARNING 2022-06-30 11:56:05,460 <module> 6 - Log Warnning Message
+
+ERROR 2022-06-30 11:56:05,460 <module> 8 - Logging Error Message
+
+WARNING 2022-06-30 11:56:05,460 <module> 6 - Log Warnning Message
+
+ERROR 2022-06-30 11:56:05,460 <module> 8 - Logging Error Message
+
+WARNING 2022-06-30 11:56:05,460 <module> 6 - Log Warnning Message
+
+ERROR 2022-06-30 11:56:05,460 <module> 8 - Logging Error Message
+
+WARNING 2022-06-30 11:56:05,460 <module> 6 - Log Warnning Message
+
+ERROR 2022-06-30 11:56:05,460 <module> 8 - Logging Error Message
+
+WARNING 2022-06-30 11:56:05,460 <module> 6 - Log Warnning Message
+

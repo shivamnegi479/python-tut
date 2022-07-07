@@ -1,5 +1,4 @@
 # multiple inheritance
-from unicodedata import name
 
 
 class Student:

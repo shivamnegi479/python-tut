@@ -1,2 +1,3 @@
-print(max(a,key=a.count))
-# print(a.count(3))
+   def __init__(self):
+        super().__init__()
+        self.clasVar1="Hi i am Instance variable of B"

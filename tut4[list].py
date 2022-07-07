@@ -40,8 +40,13 @@
 # li[1]="shivam"
 # print(li)
 
-a=[1,2,3,54,6,3,21,3,4,5,2,45,6,3,4,56,22,5,6,6,4,45,676,23,546,34,5,5]
-# print(max(a,key=a.count))
-# print(a.count(3))
-a.sort()
-print(a)
+a=[1,2,3,54,6,3,21,3,4,5,2,45,6,3,3,3,5,5,5,5,3,4,5,56,22,5,6,6,4,45,676,23,546,34,5,5]
+print(a[1:4])
+print(max(a,key=a.count))
+# # print(a.count(3))
+# a.sort()
+# print(a)
+
+# a=5
+# b=10
+# print(f"{a} \n{b}")
