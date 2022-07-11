@@ -2,9 +2,7 @@ def calculator():
     x=int(input('Enter the First Number'))
     y=int(input('Enter the Second Number'))
     print("Enter 1 for Add\nEnter 2 for Substraction\nEnter 3 For Division\nEnter 4 For multification")
-
     option=int(input('Enter the Number'))
-
     def add():
         res=x+y
         print(res)
