@@ -64,5 +64,5 @@
 # print(emp1.name,emp1.age,emp1.dept)
 
 
-tt=open('mytext.txt','r')
-print(tt)
+tt=open('mytext.txt','a')
+print(tt.read())

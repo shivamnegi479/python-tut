@@ -6,13 +6,14 @@ class Employee():
 
     @property
     def email(self):
+        if self.name==None or self.surname==None:
+            return "Email is Not set Please Set the email"
         return f"{self.name}.{self.surname}@abacasys.com"
 
 
     @email.setter
     def email(self,string):
-        if self.name==None or self.surname==None:
-            print("Email is Not set Please Set the email")
+       
         names=string.split("@")[0]
         self.name=names.split(".")[0]
         self.surname=names.split(".")[1]
@@ -21,9 +22,6 @@ class Employee():
     def email(self):
         self.name=None
         self.surname=None
-
-    # def email(self):
-    #     return f"Email is {self.}"
 emp1=Employee("shivam","negi")
 print(emp1.email)
 
